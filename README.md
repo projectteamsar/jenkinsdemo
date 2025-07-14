@@ -1,4 +1,3 @@
 # jenkinsdemo# Jenkins CI Demo
-# Jenkins CI Demo
-# Jenkins CI Demo
-# Jenkins CI Demo
+
+# Hello, Continuous Integration test run!
